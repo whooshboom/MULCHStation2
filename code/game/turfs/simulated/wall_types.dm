@@ -770,5 +770,9 @@
 	icon_state = "darkwall_rwindow0"
 	wall_base_state = "darkwall_rwindow"
 
+/turf/simulated/wall/bspass/bluestone //MULCHstation Turfs Start
+	icon = 'modular_mulch/icons/turf/bluestone.dmi'
+	icon_state = "bluestone_base"
+
 #undef WINDOW_GLASS
 #undef WINDOW_RGLASS

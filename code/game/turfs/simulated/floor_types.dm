@@ -299,3 +299,8 @@
 /turf/simulated/shuttle/floor/voidcraft/external/dark
 
 /turf/simulated/shuttle/floor/voidcraft/external/light
+
+/turf/simulated/floor/bspass/shatteredice //MULCHstation Turfs Start
+	icon = 'modular_mulch/icons/turf/shatteredice.dmi'
+	icon_state = "shatteredice_base"
+ 
