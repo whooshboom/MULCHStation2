@@ -13,7 +13,7 @@
 
 
 	#ifndef AWAY_MISSION_TEST //Don't include these for just testing away missions if the flag is set to true in /code/_away_mission_tests.dm
-		// #include "blackstone-1.dmm" //Deck 1 z1
+		#include "blackstone-1.dmm" //Deck 1 z1
 		#include "blackstone-2.dmm" //Deck 2 z2
 	#endif
 
